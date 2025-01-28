@@ -37,3 +37,7 @@ body{
     font-size: 14px;
     font-family: "DM Sans", sans-serif;
 }
+
+.sidebar nav ul li a:hover{
+    color: #fff;
+}
