@@ -1,5 +1,6 @@
 body{
     background-color: #000;
+    font-family: var(--font-dm-sans);
 }
 .sidebar{
     position: fixed;
@@ -35,13 +36,11 @@ body{
     text-decoration: none;
     font-weight: 600;
     font-size: 14px;
-    font-family: "DM Sans", sans-serif;
 }
 .sidebar nav ul li a:hover{
     color: #fff;
 }
 .library{
-    font-family: "DM Sans", sans-serif;
     background-color: #121212;
     border-radius: 8px;
     display: flex;
@@ -65,7 +64,6 @@ body{
     border: none;
     font-size: 14px;
     font-weight: 700;
-    font-family: "DM Sans", sans-serif;
     text-align: center;
     text-decoration: none;
     text-transform: none;
@@ -118,7 +116,6 @@ body{
     border-radius: 20px;
     font-size: 12px;
     font-weight: 700;
-    font-family: "DM Sans", sans-serif;
     text-decoration: none;
     text-transform: none;
     padding: 10px;
